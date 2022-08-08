@@ -1,2 +1,1 @@
-# CodePath-MobileAppDev-PreWork
-CodePath PreWork Project from Dhyey Mavani
+## CodePath Intro to Mobile App Development Android Project PreWork - Dhyey Mavani
